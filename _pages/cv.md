@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Zhejiang University of Technology, 2017 - 2021
 * Ph.D in Software Engineering, Zhejiang University, 2021 - 2026 (expected)
+* B.S. in Software Engineering, Zhejiang University of Technology, 2017 - 2021
   
 Skills
 ======
