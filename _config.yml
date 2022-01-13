@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifan Wu"
 title_separator          : "-"
 name                     : &name "Yifan Wu"
-description              : &description "PhD Student @ ZJU DILab"
+description              : &description "PhD Student @ ZJU Database Group"
 url                      : https://onefanwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onefanwu/onefanwu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yifan Wu"
   avatar           : "yifanwu.jpg"
-  bio              : "PhD Student @ ZJU DILab"
+  bio              : "PhD Student @ ZJU Database Group"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
