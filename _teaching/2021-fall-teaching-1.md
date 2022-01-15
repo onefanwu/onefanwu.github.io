@@ -1,8 +1,8 @@
 ---
 title: "Operating System Principles"
 collection: teaching
-type: "undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Undergraduate Course"
+permalink: /teaching/2021-fall-teaching-1
 venue: "Zhejiang University, CS"
 date: 2021-09-18
 location: "Hangzhou, China"
