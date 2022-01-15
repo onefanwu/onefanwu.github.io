@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Operating System Principles"
 collection: teaching
-type: "Undergraduate course"
+type: "undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Zhejiang University, CS"
+date: 2021-09-18
+location: "Hangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant [Fall 2021]
 
 Heading 1
 ======
