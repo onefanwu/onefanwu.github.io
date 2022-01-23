@@ -1,7 +1,7 @@
 ---
-title: "Projects item number 1"
-excerpt: "Short description of projects item number 1<br/><img src='/images/500x300.png'>"
+title: "Rolled Fingerprint Construction"
+excerpt: "Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction). [Homepage](https://www.researchgate.net/project/Rolled-Fingerprint-Construction)"
 collection: projects
 ---
 
-This is an item in your projects. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction).
