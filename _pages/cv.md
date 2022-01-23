@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Software Engineering, Zhejiang University, 2021 - 2026 (expected)
+* Ph.D. in Software Engineering, Zhejiang University, 2021 - 2026 (expected)
 * B.S. in Software Engineering, Zhejiang University of Technology, 2017 - 2021
-  
-Skills
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -29,18 +29,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  <ul>{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
