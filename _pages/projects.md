@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## [Computing-in-Memory Database System [Nov 2021 - Present]](https://onefanwu.github.io/projects/projects-3/)
+## [Computing-in-Memory Database System [Nov 2020 - Present]](https://onefanwu.github.io/projects/projects-3/)
 TBD
 
 ## [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/projects-2/)
