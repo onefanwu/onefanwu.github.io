@@ -16,10 +16,10 @@ I am currently a PhD student at [ZJU Database and Data Intelligence Lab](https:/
 
 ## Experiences
 - [Southeast Digital Economic Development Institute](http://www.sdedi.org.cn/)
-  - Machine Learning Engineer Intern | 10/2020 - 06/2021, Quzhou, Zhejiang, China
+  - Machine Learning Engineer Intern, 10/2020 - 06/2021, Quzhou, Zhejiang, China
 
 - [ZJU Database and Data Intelligence Lab](https://dilab-zju.github.io/)
-    - Summer Camp Intern | 07/2020 - 08/2020, Hangzhou, Zhejiang, China
+    - Summer Camp Intern, 07/2020 - 08/2020, Hangzhou, Zhejiang, China
 
 
 ## Services
