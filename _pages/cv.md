@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Software Engineering, Zhejiang University, 2021 - 2026 (expected)
-* B.S. in Software Engineering, Zhejiang University of Technology, 2017 - 2021
+* Ph.D. in Software Engineering, [Zhejiang University](https://www.zju.edu.cn/english/), 2021 - 2026 (expected), advisor: Prof. [Lidan Shou](https://person.zju.edu.cn/en/should)
+* B.S. in Software Engineering, [Zhejiang University of Technology](http://www.english.zjut.edu.cn/jsp2/index.jsp), 2017 - 2021, advisors: Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Yongliang Zhang
 
 <!-- Skills
 ======
