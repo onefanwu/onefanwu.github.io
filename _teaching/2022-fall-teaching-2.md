@@ -8,7 +8,7 @@ date: 2022-09-18
 location: "Hangzhou, China"
 ---
 
-Teaching Assistant [Fall 2022] (TBD)
+Teaching Assistant [Fall 2022]
 
 Heading 1
 ======
