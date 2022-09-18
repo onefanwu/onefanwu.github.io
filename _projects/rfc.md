@@ -11,5 +11,8 @@ Zhang, Y., **<u>Wu, Y.</u>**, Gao, M., Pan, S., Shao, Z., & Luo, T. (2020). [Blo
 
 Zhang, Y., Gao, M., Zhan, X., **<u>Wu, Y.</u>**, & Pan, S. (2019, October). [Rolled fingerprint mosaicking algorithm based on block scale.](https://link.springer.com/chapter/10.1007/978-3-030-31456-9_7) In Chinese Conference on Biometric Recognition (pp. 55-62). Springer, Cham.
 
+### Members
+[Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900), Yifan Wu, Xiaosi Zhan, Minghua Gao, etc.
+
 ### Patents
 [CN111209872A](https://patents.google.com/patent/CN111209872A/en?oq=CN111209872A)
