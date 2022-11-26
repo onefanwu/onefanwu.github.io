@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the [Database and Data Intelligence Lab](https://dilab-zju.github.io/) of Zhejiang University, where I was advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I also worked closely with [Dawei Jiang](https://scholar.google.com/citations?user=Y2MvjeMAAAAJ) and Ke Chen. Prior to that, I received my B.Eng. in Software Engineering in 2021 from Zhejiang University of Technology, where I was advised by [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39).
+I am currently a PhD student at the [Database and Data Intelligence Lab](https://dilab-zju.github.io/) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). Also, I am happy to work closely with [Dawei Jiang](https://scholar.google.com/citations?user=Y2MvjeMAAAAJ) and Ke Chen. Prior to that, I received my B.Eng. in Software Engineering in 2021 from Zhejiang University of Technology, where I was advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39).
 
 ## Research
 I am interested in database systems, data management and scientific computing. My current research is focused on [Array DBMS](https://en.wikipedia.org/wiki/Array_DBMS) and Computing-in-Memory (CIM) architecture, especially on improving query execution performance on emerging hardware.
