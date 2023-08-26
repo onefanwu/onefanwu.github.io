@@ -11,13 +11,15 @@ I am currently a PhD student at the [Database and Data Intelligence Lab](https:/
 
 ## Research
 
-I am interested in database systems, data management, and emerging hardware. My current research interests are in query processing and storage optimization techniques for emerging hardware. Specifically, my research focuses on accelerating analytical processing (e.g., matrix computation and video analytics) using emerging hardware (e.g., Compute-in-Memory (CIM) architecture) and modern hardware (e.g., CXL+SSD and CPU-GPU co-processing).
+I am interested in database systems, data management, and emerging hardware. My current research interests are in query processing and storage optimization techniques for emerging hardware. Specifically, my research focuses on accelerating analytical processing (e.g., matrix computation and video analytics) using emerging hardware (e.g., Compute-in-Memory architecture) and modern hardware (e.g., CXL+SSD and CPU-GPU co-processing).
 
 <!-- My current research is focused on [Array DBMS](https://en.wikipedia.org/wiki/Array_DBMS) and Compute-in-Memory (CIM) architecture, especially on improving query execution performance on emerging hardware. -->
 
 ## News
 
 - 2021.09 Joining the ZJU Database Group at [Database and Data Intelligence Lab](https://dilab-zju.github.io/) as a PhD student in Fall ‘21.
+
+## Selected Publications
 
 ## Experiences
 
