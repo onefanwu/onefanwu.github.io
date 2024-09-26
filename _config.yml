@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "Fange_wyf"
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  blogs:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -194,7 +197,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: blogs
     values:
       layout: single
       author_profile: true
