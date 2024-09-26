@@ -10,12 +10,12 @@ author_profile: true
 
 TBD
 
-## [Accelerating In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
+## [In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
 
 TBD
 
 
-## [Accelerating Analytical Queries on Emerging Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
+## [Analytical Queries on Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
 
 TBD
 

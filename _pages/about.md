@@ -11,15 +11,15 @@ I am currently a PhD student at the Database and Data Intelligence Lab (DILAB) o
 
 ## Research
 
-I am interested in database systems, decentralized systems, and hardware acceleration. My research interest is in inventing efficient query processing and storage optimization techniques for emerging hardware. Specifically, my current research focuses on accelerating emerging analytical queries (e.g., in-DB AI inference) using emerging hardware (e.g., Compute-in-Memory architecture) and modern hardware (e.g., GPU).
+I am interested in database systems, decentralized systems, and hardware acceleration. My research interest is in inventing efficient query processing and storage optimization techniques for emerging hardware. Specifically, my current research focuses on accelerating emerging analytical queries (e.g., in-DB AI inference) using emerging compute-in-memory hardware and modern hardware (e.g., GPU).
 
 <!-- My current research is focused on [Array DBMS](https://en.wikipedia.org/wiki/Array_DBMS) and Compute-in-Memory (CIM) architecture, especially on improving query execution performance on emerging hardware. -->
 
 ## On-going Projects
 
 - [Multi-Tenant OLAP Databases [Aug 2024 - Present]](https://onefanwu.github.io/projects/multi_tenant/)
-- [Accelerating In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
-- [Accelerating Analytical Queries on Emerging Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
+- [In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
+- [Analytical Queries on Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
 
 ## News
 
