@@ -1,9 +1,9 @@
 ---
 title: 'Decentralized Systems'
-date: 2021-09-18
-permalink: /posts/20240927/decentralized-systems/
+date: 2024-09-27
+permalink: /posts/20240927-decentralized-systems
 tags:
-  - life
+  - insight
 ---
 
 Over the past year, I have developed a keen interest in decentralized systems, as I believe that modern systems are predominantly built on centralized architectures, which directly jeopardize the control of data by individual users. I firmly believe that the control of user data must belong to the users themselves, an unshakable principle.
