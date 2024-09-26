@@ -6,7 +6,16 @@ author_profile: true
 ---
 {% include base_path %}
 
-## [Compute-in-Memory Database System [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
+## [Multi-Tenant OLAP Databases [Aug 2024 - Present]](https://onefanwu.github.io/projects/multi_tenant/)
+
+TBD
+
+## [Accelerating In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
+
+TBD
+
+
+## [Accelerating Analytical Queries on Emerging Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
 
 TBD
 
