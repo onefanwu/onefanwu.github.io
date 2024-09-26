@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the [Database and Data Intelligence Lab (DILAB)](https://github.com/dilab-zju) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). Prior to that, I received my B.Eng. in Software Engineering in 2021 from Zhejiang University of Technology, where I was advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900).
+I am currently a PhD student at the [Database and Data Intelligence Lab](https://github.com/dilab-zju) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). Prior to that, I received my B.Eng. in Software Engineering in 2021 from Zhejiang University of Technology, where I was advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900).
 
 ## Research
 
