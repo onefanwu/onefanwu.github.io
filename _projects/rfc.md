@@ -1,13 +1,19 @@
 ---
 title: "Rolled Fingerprint Construction [Jan 2019 - Oct 2020]"
-excerpt: "Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction). [Homepage](https://www.researchgate.net/project/Rolled-Fingerprint-Construction)"
+excerpt: "Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction). Please see [our papers](https://ieeexplore.ieee.org/abstract/document/9274479) for more details."
 collection: projects
 ---
 
-Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction). [Homepage](https://www.researchgate.net/project/
+Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction). Please see [our papers](https://ieeexplore.ieee.org/abstract/document/9274479) for more details.
 
-### Members
-[Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900), Yifan Wu, Xiaosi Zhan, Minghua Gao, etc.
+### Project Leader
+- [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900), Zhejiang University of Technology
+
+### Participators
+- [Yifan Wu](https://scholar.google.com/citations?user=l2GmQnQAAAAJ)
+- Xiaosi Zhan
+- Minghua Gao
+- ...
 
 ### Publications
 Zhang, Y., **<u>Wu, Y.</u>**, Gao, M., Pan, S., Shao, Z., & Luo, T. (2020). [BlockRFC: Real-Time Rolled Fingerprint Construction and Distortion Rectification.](https://ieeexplore.ieee.org/abstract/document/9274479) IEEE Access, 8, 216948-216959. \[[Code](https://github.com/onefanwu/BlockRFC)\] \[[Video](https://ieeexplore.ieee.org/abstract/document/9274479)\]
