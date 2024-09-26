@@ -1,7 +1,8 @@
 ---
 title: 'Decentralized Systems'
+collection: blogs
 date: 2024-09-27
-permalink: /posts/20240927-decentralized-systems
+permalink: /blogs/20240927-decentralized-systems
 tags:
   - insight
 ---

@@ -1,7 +1,8 @@
 ---
 title: 'Joining the ZJU Database Group'
+collection: blogs
 date: 2021-09-18
-permalink: /posts/20210918-become-a-phd-student
+permalink: /blogs/20210918-become-a-phd-student
 tags:
   - life
 ---
