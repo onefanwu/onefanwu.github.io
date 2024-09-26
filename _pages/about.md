@@ -34,9 +34,9 @@ I am interested in database systems, decentralized systems, and hardware acceler
 
 
 ## Experiences
-- **10/2024 - 04/2025** (6 months), Research Intern, [AnalyticDB (Alibaba Cloud)](https://www.alibabacloud.com/)
-- **10/2020 - 06/2021** (9 months), Machine Learning Engineer Intern, Southeast Digital Economic Development Institute, Quzhou, Zhejiang Province
-- **07/2020 - 08/2020** (2 months), Summer Camp Intern, [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)
+- **10/2024 - 04/2025** (6 months), Research Intern, working on [Multi-Tenant OLAP Database System AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), [Alibaba Cloud](https://www.alibabacloud.com/)
+- **10/2020 - 06/2021** (9 months), Machine Learning Engineer Intern, working on [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), Southeast Digital Economic Development Institute, Quzhou, Zhejiang Province
+- **07/2020 - 08/2020** (2 months), Summer Camp Intern, working on Entity Matching, [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)
 
 ## Services
 
