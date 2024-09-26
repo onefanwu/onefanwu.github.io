@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the Database and Data Intelligence Lab (DILAB) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). Prior to that, I received my B.Eng. in Software Engineering in 2021 from Zhejiang University of Technology, where I was advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900).
+I am currently a PhD student at the [Database and Data Intelligence Lab (DILAB)](https://github.com/dilab-zju) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). Prior to that, I received my B.Eng. in Software Engineering in 2021 from Zhejiang University of Technology, where I was advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900).
 
 ## Research
 
@@ -25,7 +25,7 @@ I am interested in database systems, decentralized systems, and hardware acceler
 
 
 
-- 2021.09 Joining the ZJU Database Group at [Database and Data Intelligence Lab](https://dilab-zju.github.io/) as a PhD student in Fall ‘21.
+- 2021.09 Joining the ZJU Database Group at [Database and Data Intelligence Lab](https://github.com/dilab-zju) as a PhD student in Fall ‘21.
 
 <!-- I also work closely with [Ke Chen](https://scholar.google.com/citations?user=cqfBLecAAAAJ), [Huan Li](https://longaspire.github.io/), [Dawei Jiang](https://scholar.google.com/citations?user=Y2MvjeMAAAAJ) -->
 
@@ -35,8 +35,8 @@ I am interested in database systems, decentralized systems, and hardware acceler
 
 ## Experiences
 - 10/2024 - 04/2025, Research Intern, [AnalyticDB (Alibaba Cloud)](https://www.alibabacloud.com/)
-- 10/2020 - 06/2021, Machine Learning Engineer Intern, [Southeast Digital Economic Development Institute](http://www.sdedi.org.cn/)
-- 07/2020 - 08/2020, Summer Camp Intern, [ZJU Database and Data Intelligence Lab](https://dilab-zju.github.io/)
+- 10/2020 - 06/2021, Machine Learning Engineer Intern, Southeast Digital Economic Development Institute, Quzhou, Zhejiang Province
+- 07/2020 - 08/2020, Summer Camp Intern, [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)
 
 ## Services
 
