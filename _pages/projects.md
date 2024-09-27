@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## [Multi-Tenant OLAP Databases [Aug 2024 - Present]](https://onefanwu.github.io/projects/multi_tenant/)
+## [Serverless OLAP Databases [Aug 2024 - Present]](https://onefanwu.github.io/projects/multi_tenant/)
 
 TBD
 

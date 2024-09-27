@@ -17,7 +17,7 @@ I am interested in database systems, decentralized systems, and hardware acceler
 
 ## On-going Projects
 
-- [Multi-Tenant OLAP Databases [Aug 2024 - Present]](https://onefanwu.github.io/projects/multi_tenant/)
+- [Serverless OLAP Databases [Aug 2024 - Present]](https://onefanwu.github.io/projects/multi_tenant/)
 - [In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
 - [Analytical Queries on Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
 
@@ -34,7 +34,7 @@ I am interested in database systems, decentralized systems, and hardware acceler
 
 
 ## Internship Experience
-- **10/2024 - 03/2025** (6 months), Research Intern, working on [Multi-Tenant OLAP Database System AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), [Alibaba Cloud](https://www.alibabacloud.com/)
+- **10/2024 - 03/2025** (6 months), Research Intern, working on [Serverless OLAP Database System AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), [Alibaba Cloud](https://www.alibabacloud.com/)
 - **10/2020 - 06/2021** (9 months), Machine Learning Engineer Intern, working on [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), Southeast Digital Economic Development Institute, Quzhou, Zhejiang Province
 - **07/2020 - 08/2020** (2 months), Summer Camp Intern, working on Entity Matching, [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)
 
