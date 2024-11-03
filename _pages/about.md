@@ -19,7 +19,7 @@ I am interested in database systems, decentralized systems, and hardware acceler
 [HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://onefanwu.github.io/)  
 **Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou  
 2025 ACM SIGMOD International Conference on Management of Data    
-[Code](https://onefanwu.github.io/)/[Slides](https://onefanwu.github.io/)/[Video](https://onefanwu.github.io/)
+[Code](https://onefanwu.github.io/) / [Slide](https://onefanwu.github.io/) / [Video](https://onefanwu.github.io/)
 
 
 ## Current Projects
@@ -37,7 +37,7 @@ I am interested in database systems, decentralized systems, and hardware acceler
 
 
 ## Internship Experience
-[Serverless Data Warehouse, working on AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
+Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
 Research Intern  
 11/2024 - 11/2025 (12 months)
 
