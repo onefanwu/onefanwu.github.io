@@ -10,7 +10,7 @@ author_profile: true
 
 TBD
 
-## [In-Database AI Inference Queries [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
+## [In-Database AI Inference [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
 
 TBD
 
