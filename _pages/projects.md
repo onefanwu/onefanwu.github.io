@@ -22,7 +22,7 @@ This project aims to design an efficient storage method for emerging Compute-In-
 
 ## [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/acc/)
 
-This project is the subject of my internship as a machine learning engineer at the Southeast Digital Economic Development Institute (Zhejiang, China). It aims to learn the human's aerobic capacity from the exercise data (e.g., heart rate and speed) of undergraduate students, and thus a customized exercise program can be provided for each student. This project is co-funded by the National Student Innovation Training Program and Zhejiang Province New Talent Program. Please see [our patents](https://patents.google.com/patent/CN112836105A/en) for more details.
+This project is the subject of my internship as a machine learning engineer at the Southeast Digital Economic Development Institute (Quzhou). It aims to learn the human's aerobic capacity from the exercise data (e.g., heart rate and speed) of undergraduate students, and thus a customized exercise program can be provided for each student. This project is co-funded by the National Student Innovation Training Program and Zhejiang Province New Talent Program. Please see [our patents](https://patents.google.com/patent/CN112836105A/en) for more details.
 
 ## [Rolled Fingerprint Construction [Jan 2019 - Oct 2020]](https://onefanwu.github.io/projects/rfc/)
 
