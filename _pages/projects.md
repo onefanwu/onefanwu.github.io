@@ -15,9 +15,10 @@ TBD
 TBD
 
 
-## [Analytical Queries on Compute-in-Memory Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
+## [Data Management on CIM Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
 
-TBD
+This project aims to design an efficient storage method for emerging Compute-In-Memory (CIM) architectures to support diverse data structures and access patterns, thereby effectively accelerating multi-MVM queries.
+
 
 ## [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/acc/)
 
