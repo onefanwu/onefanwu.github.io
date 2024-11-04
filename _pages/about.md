@@ -38,7 +38,7 @@ Summer Camp Intern
 ## Education
 PhD. in Computer Science, Zhejiang University  
 advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ)  
-09/2021 - 06/2026 (5 years) 
+09/2021 - Present (already 3 years) 
 
 B.Eng. in Software Engineering, Zhejiang University of Technology  
 advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900)  

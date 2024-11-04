@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-## PhD period
+## PhD period (09/2021 - Present)
 
 ### [Serverless Data Warehouse [Aug 2024 - Present]](https://onefanwu.github.io/projects/serverless/)
 
@@ -22,7 +22,7 @@ author_profile: true
 **Abstract**: This project aims to design an efficient storage method for emerging Compute-In-Memory (CIM) architectures to support diverse data structures and access patterns, thereby effectively accelerating multi-MVM queries.
 
 
-## Undergraduate period
+## Undergraduate period (09/2017 - 06/2021)
 
 ### [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/acc/)
 
