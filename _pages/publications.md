@@ -13,13 +13,13 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=l2GmQnQAAAAJ&hl=en).
 
-### PhD period
+## PhD period
 [HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://onefanwu.github.io/)  
 **Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou  
 2025 ACM SIGMOD International Conference on Management of Data    
 [Code](https://onefanwu.github.io/) / [Slide](https://onefanwu.github.io/) / [Video](https://onefanwu.github.io/)
 
-### Undergraduate period
+## Undergraduate period
 [BlockRFC: Real-Time Rolled Fingerprint Construction and Distortion Rectification](https://ieeexplore.ieee.org/abstract/document/9274479)  
 Yongliang Zhang, **Yifan Wu**, Minghua Gao, Shengyi Pan, Zirui Shao, Tian Luo   
 IEEE Access, 8, 216948-216959, 2020  
