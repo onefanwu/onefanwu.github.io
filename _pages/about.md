@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the [Database and Data Intelligence Lab](https://github.com/dilab-zju) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in database systems, data management, decentralized systems, and hardware acceleration. My research is dedicated to developing innovative techniques for efficient query processing and storage optimization, particularly in the context of emerging hardware. Currently, my focus is on leveraging cutting-edge compute-in-memory hardware and modern accelerators such as GPUs to expedite the execution of advanced analytical queries.
+I am currently a PhD student at the database and data intelligence lab (DILAB) of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in database systems, data management, decentralized systems, and hardware acceleration. My research is dedicated to developing innovative techniques for efficient query processing and storage optimization, particularly in the context of emerging hardware. Currently, my focus is on leveraging cutting-edge compute-in-memory hardware and modern accelerators such as GPUs to expedite the execution of advanced analytical queries.
 
 
 ## Current Projects
@@ -24,25 +24,25 @@ I am currently a PhD student at the [Database and Data Intelligence Lab](https:/
 ## Internship Experience
 Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
 Research Intern  
-11/2024 - 11/2025 (12 months)
+Nov 2024 - Nov 2025 (expected 12 months)
 
 [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), at Southeast Digital Economic Development Institute (Quzhou)  
 Machine Learning Engineer Intern  
-10/2020 - 06/2021 (9 months)
+Oct 2020 - Jun 2021 (9 months)
 
 Entity Resolution, at [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)  
 Summer Camp Intern  
-07/2020 - 08/2020 (2 months)
+Jul 2020 - Aug 2020 (2 months)
 
 
 ## Education
-PhD. in Computer Science, Zhejiang University  
+PhD. in Software Engineering, Zhejiang University  
 advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ)  
-09/2021 - Present (already 3 years) 
+Sep 2021 - Present (already 3 years) 
 
 B.Eng. in Software Engineering, Zhejiang University of Technology  
 advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900)  
-09/2017 - 06/2021 (4 years) 
+Sep 2017 - Jun 2021
 
 
 ## Services
