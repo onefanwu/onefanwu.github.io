@@ -1,5 +1,5 @@
 ---
-title: "Serverless Data Warehouse [Aug 2024 - Present]"
+title: "Serverless Data Warehouse"
 excerpt: "TBD"
 collection: projects
 ---

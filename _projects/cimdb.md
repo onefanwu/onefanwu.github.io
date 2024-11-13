@@ -1,5 +1,5 @@
 ---
-title: "Data Management on CIM Architecture [Sep 2021 - Jul 2024]"
+title: "Data Management on CIM Architecture"
 excerpt: "TBD"
 collection: projects
 ---
@@ -15,9 +15,11 @@ This project aims to design an efficient storage method for emerging Compute-In-
 - Gang Chen
 
 ### Publications
+**\* denotes the tagged author is my advisor**
+
 [HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://onefanwu.github.io/)  
-**Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou  
+**Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou*  
 2025 ACM SIGMOD International Conference on Management of Data    
-[Code](https://onefanwu.github.io/)/[Slides](https://onefanwu.github.io/)/[Video](https://onefanwu.github.io/)
+[Code](https://onefanwu.github.io/) / [Slides](https://onefanwu.github.io/) / [Video](https://onefanwu.github.io/)
 
 <!-- ### Patents -->

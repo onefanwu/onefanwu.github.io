@@ -1,5 +1,5 @@
 ---
-title: "In-Database AI Inference [Dec 2023 - Present]"
+title: "In-Database AI Inference"
 excerpt: "TBD"
 collection: projects
 ---
