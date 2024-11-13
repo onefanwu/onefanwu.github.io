@@ -1,5 +1,5 @@
 ---
-title: "Data Management on CIM Architecture [Nov 2020 - Present]"
+title: "Data Management on CIM Architecture [Sep 2021 - Jul 2024]"
 excerpt: "TBD"
 collection: projects
 ---

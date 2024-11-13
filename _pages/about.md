@@ -13,7 +13,7 @@ I am currently a PhD student at the database and data intelligence lab (DILAB) o
 ## Current Projects
 - [Serverless Data Warehouse [Aug 2024 - Present]](https://onefanwu.github.io/projects/serverless/)
 - [In-Database AI Inference [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
-- [Data Management on CIM Architecture [Nov 2020 - Present]](https://onefanwu.github.io/projects/cimdb/)
+- [Data Management on CIM Architecture [Sep 2021 - Jul 2024]](https://onefanwu.github.io/projects/cimdb/)
 
 <!-- ## News
 - 2024.11 one paper accepted by SIGMOD'25
@@ -28,11 +28,11 @@ Nov 2024 - Nov 2025 (expected 12 months)
 
 [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), at Southeast Digital Economic Development Institute (Quzhou)  
 Machine Learning Engineer Intern  
-Oct 2020 - Jun 2021 (9 months)
+Oct 2020 - Jun 2021
 
 Entity Resolution, at [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)  
 Summer Camp Intern  
-Jul 2020 - Aug 2020 (2 months)
+Jul 2020 - Aug 2020
 
 
 ## Education
