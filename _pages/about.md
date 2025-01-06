@@ -24,7 +24,7 @@ I am currently a PhD student at the database and data intelligence lab (DILAB) o
 ## Internship Experience
 Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
 Research Intern  
-Nov 2024 - Nov 2025 (expected 12 months)
+Dec 2024 - Dec 2025 (expected 12 months)
 
 [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), at Southeast Digital Economic Development Institute (Quzhou)  
 Machine Learning Engineer Intern  
