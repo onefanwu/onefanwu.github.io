@@ -17,9 +17,9 @@ This project aims to design an efficient storage method for emerging Compute-In-
 ### Publications
 **\* denotes the tagged author is my advisor**
 
-[HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://onefanwu.github.io/)  
+[HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://dl.acm.org/doi/pdf/10.1145/3709695)  
 **Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou*  
 2025 ACM SIGMOD International Conference on Management of Data    
-[Code](https://onefanwu.github.io/) / [Slides](https://onefanwu.github.io/) / [Video](https://onefanwu.github.io/)
+[Code](https://github.com/HyperMR-project/HyperMR) / Slide / Video
 
 <!-- ### Patents -->
