@@ -15,16 +15,10 @@ I am currently a PhD student at the database and data intelligence lab (DILAB) o
 - [In-Database AI Inference [Dec 2023 - Present]](https://onefanwu.github.io/projects/db4ai/)
 - [Data Management on CIM Architecture [Sep 2021 - Jul 2024]](https://onefanwu.github.io/projects/cimdb/)
 
-<!-- ## News
-- 2024.11 one paper accepted by SIGMOD'25
-
-- 2021.09 Joining the ZJU Database Group at [Database and Data Intelligence Lab](https://github.com/dilab-zju) as a PhD student in Fall ‘21. -->
-
-
 ## Internship Experience
 Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
 Research Intern  
-Dec 2024 - Dec 2025 (expected 12 months)
+Dec 2024 - Dec 2025 (expected)
 
 [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), at Southeast Digital Economic Development Institute (Quzhou)  
 Machine Learning Engineer Intern  
@@ -38,7 +32,7 @@ Jul 2020 - Aug 2020
 ## Education
 PhD. in Software Engineering, Zhejiang University  
 advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ)  
-Sep 2021 - Present (already 3 years) 
+Sep 2021 - Jun 2026 (expected)
 
 B.Eng. in Software Engineering, Zhejiang University of Technology  
 advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900)  

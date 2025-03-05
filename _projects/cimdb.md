@@ -12,7 +12,7 @@ This project aims to design an efficient storage method for emerging Compute-In-
 - [Huan Li](https://longaspire.github.io/)
 - [Ke Chen](https://scholar.google.com/citations?user=cqfBLecAAAAJ)
 - [Dawei Jiang](https://scholar.google.com/citations?user=Y2MvjeMAAAAJ)
-- Gang Chen
+- [Gang Chen](https://person.zju.edu.cn/en/0098112)
 
 ### Publications
 **\* denotes the tagged author is my advisor**
