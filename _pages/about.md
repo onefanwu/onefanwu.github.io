@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the state key laboratory of blockchain and data security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Data Infrastructure, Data Management, Data Assets, and Emerging Hardware. 
+I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Data Infrastructure, Data Market, Emerging Hardware, and Blockchain. 
 
 Specifically, my current research focuses on designing novel frameworks for data warehouses to optimize cloud resource management and integrate AI capabilities. In parallel, I also explore the use of emerging hardware technologies, such as compute-in-memory architectures, to accelerate analytical workloads.
 
