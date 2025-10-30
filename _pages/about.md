@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Data Infrastructure, Data Market, Emerging Hardware, and Blockchain. 
+I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Data Infrastructure, Databases, Data Market, Blockchain, and Emerging Hardware. 
 
-Specifically, my current research focuses on designing novel frameworks for data warehouses to optimize cloud resource management and integrate AI capabilities. In parallel, I also explore the use of emerging hardware technologies, such as compute-in-memory architectures, to accelerate analytical workloads.
+My current research is anchored in two interesting areas. Specifically, I'm designing novel frameworks for serverless data warehouses to significantly optimize cloud resource management and integrate AI capabilities. Simultaneously, I'm actively exploring the use of emerging hardware technologies, such as compute-in-memory architectures, to aggressively accelerate analytical workloads.
 
 
 ## Current Projects
@@ -20,7 +20,7 @@ Specifically, my current research focuses on designing novel frameworks for data
 ## Internship Experience
 Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
 Research Intern  
-Dec 2024 - Dec 2025 (expected)
+Dec 2024 - Jun 2026 (expected)
 
 [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), at Southeast Digital Economic Development Institute (Quzhou)  
 Machine Learning Engineer Intern  
