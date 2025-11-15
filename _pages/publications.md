@@ -16,9 +16,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## PhD period (Sep 2021 - Present)
 **\* denotes the tagged author is my advisor**
 
+
+[SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses]()
+**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou*, Bo  Tang, Liang Lin, Huan Li, Gang Chen
+VLDB 2026, 52nd International Conference on Very Large Data Bases
+[Homepage](https://safeload-project.github.io/Homepage) / [Benchmark](https://github.com/SafeLoad-project/SafeBench) / Slide / Video
+
 [HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://dl.acm.org/doi/pdf/10.1145/3709695)  
 **Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou*  
-2025 ACM SIGMOD International Conference on Management of Data    
+SIGMOD 2025, ACM SIGMOD International Conference on Management of Data    
 [Code](https://github.com/HyperMR-project/HyperMR) / Slide / Video
 
 ## Undergraduate period (Sep 2017 - Jun 2021)
