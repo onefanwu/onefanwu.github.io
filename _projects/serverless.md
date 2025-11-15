@@ -16,9 +16,9 @@ Memory overload is a common form of resource exhaustion in  cloud data warehouse
 ### Publications
 **\* denotes the tagged author is my advisor**
 
-[SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses]()
-**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou*, Bo  Tang, Liang Lin, Huan Li, Gang Chen
-VLDB 2026, 52nd International Conference on Very Large Data Bases
+[SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses]()  
+**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou*, Bo  Tang, Liang Lin, Huan Li, Gang Chen  
+VLDB 2026, 52nd International Conference on Very Large Data Bases  
 [Homepage](https://safeload-project.github.io/Homepage) / [Benchmark](https://github.com/SafeLoad-project/SafeBench) / Slide / Video
 
 ### Patents
