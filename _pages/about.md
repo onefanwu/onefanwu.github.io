@@ -13,7 +13,7 @@ My current research is anchored in two interesting areas. Specifically, I'm desi
 
 
 ## Current Projects
-- [Data Discovery Agent and Data Markets [Mar 2026 - Present]](https://onefanwu.github.io/projects/serverless/)
+- [Data Discovery Agent and Data Markets [Mar 2026 - Present]](https://onefanwu.github.io/projects/agent/)
 
 
 ## Internship Experience
