@@ -16,6 +16,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## PhD period (Sep 2021 - Present)
 **\* denotes the tagged author is my advisor**
 
+[Token Economics for LLM Agents: A Dual-View Study from Computing and Economics](https://arxiv.org/abs/2605.09104)  
+Yuxi Chen, Junming Chen, Chenyu He, Yiwei Li, Yicheng Ji, **Yifan Wu**, Dingyu Yang, Lansong Diao, Lidan Shou, Hongliang Zhang, Huan Li, Gang Chen  
+arXiv:2605.09104, 2026
+
 [SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses](https://www.vldb.org/pvldb/vol19/p713-li.pdf)  
 **Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou*, Bo  Tang, Liang Lin, Huan Li, Gang Chen  
 VLDB 2026, 52nd International Conference on Very Large Data Bases  
