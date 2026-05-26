@@ -14,21 +14,24 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=l2GmQnQAAAAJ&hl=en).
 
 ## PhD period (Sep 2021 - Present)
-**\* denotes the tagged author is my advisor**
+
+[ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB]()  
+**Yifan Wu**, Yuhan Li, Zhenhua Wang, Ke Chen, Lidan Shou, Zonghao Chen, Liang Lin, Huan Li, Gang Chen  
+VLDB 2026, 52nd International Conference on Very Large Data Bases
 
 [Token Economics for LLM Agents: A Dual-View Study from Computing and Economics](https://arxiv.org/abs/2605.09104)  
 Yuxi Chen, Junming Chen, Chenyu He, Yiwei Li, Yicheng Ji, **Yifan Wu**, Dingyu Yang, Lansong Diao, Lidan Shou, Hongliang Zhang, Huan Li, Gang Chen  
 arXiv:2605.09104, 2026
 
 [SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses](https://www.vldb.org/pvldb/vol19/p713-li.pdf)  
-**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou*, Bo  Tang, Liang Lin, Huan Li, Gang Chen  
+**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou, Bo  Tang, Liang Lin, Huan Li, Gang Chen  
 VLDB 2026, 52nd International Conference on Very Large Data Bases  
-[Homepage](https://safeload-project.github.io/Homepage) / [Benchmark](https://github.com/SafeLoad-project/SafeBench) / Slide / Video
+[Homepage](https://safeload-project.github.io/Homepage) / [Benchmark](https://github.com/SafeLoad-project/SafeBench)
 
 [HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://dl.acm.org/doi/pdf/10.1145/3709695)  
-**Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou*  
+**Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou  
 SIGMOD 2025, ACM SIGMOD International Conference on Management of Data    
-[Code](https://github.com/HyperMR-project/HyperMR) / Slide / Video
+[Code](https://github.com/HyperMR-project/HyperMR)
 
 ## Undergraduate period (Sep 2017 - Jun 2021)
 **\* denotes the tagged author is my advisor**

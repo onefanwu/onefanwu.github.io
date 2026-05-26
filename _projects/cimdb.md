@@ -15,10 +15,9 @@ This project aims to design an efficient storage method for emerging Compute-In-
 - [Gang Chen](https://person.zju.edu.cn/en/0098112)
 
 ### Publications
-**\* denotes the tagged author is my advisor**
 
 [HyperMR: Efficient Hypergraph-enhanced Matrix Storage on Compute-in-Memory Architecture](https://dl.acm.org/doi/pdf/10.1145/3709695)  
-**Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou*  
+**Yifan Wu**, Ke Chen, Gang Chen, Dawei Jiang, Huan Li, Lidan Shou  
 2025 ACM SIGMOD International Conference on Management of Data    
 [Code](https://github.com/HyperMR-project/HyperMR) / Slide / Video
 

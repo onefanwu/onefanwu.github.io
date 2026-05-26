@@ -14,10 +14,13 @@ Memory overload is a common form of resource exhaustion in  cloud data warehouse
 - [Ke Chen](https://scholar.google.com/citations?user=cqfBLecAAAAJ)
 
 ### Publications
-**\* denotes the tagged author is my advisor**
+
+[ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB]()  
+**Yifan Wu**, Yuhan Li, Zhenhua Wang, Ke Chen, Lidan Shou, Zonghao Chen, Liang Lin, Huan Li, Gang Chen  
+VLDB 2026, 52nd International Conference on Very Large Data Bases
 
 [SafeLoad: Efficient Admission Control Framework for Identifying Memory-Overloading Queries in Cloud Data Warehouses](https://www.vldb.org/pvldb/vol19/p713-li.pdf)  
-**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou*, Bo  Tang, Liang Lin, Huan Li, Gang Chen  
+**Yifan Wu**, Yuhan Li, Zhenhua Wang, Zhongle Xie, Dingyu Yang, Ke Chen, Lidan Shou, Bo  Tang, Liang Lin, Huan Li, Gang Chen  
 VLDB 2026, 52nd International Conference on Very Large Data Bases  
 [Homepage](https://safeload-project.github.io/Homepage) / [Benchmark](https://github.com/SafeLoad-project/SafeBench) / Slide / Video
 
