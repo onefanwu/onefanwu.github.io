@@ -15,6 +15,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## PhD period (Sep 2021 - Present)
 
+[Guixu: Valuation-Driven Data Discovery for Autonomous AI Agents with On-Chain Attestation]()  
+**Yifan Wu**, Yuchen Peng, Jiaqi Chai, Yufei Qian, Xilin Li, Ke Chen, Lidan Shou  
+VLDB 2026, 52nd International Conference on Very Large Data Bases  
+[Code](https://github.com/guixu-project/guixu)
+
 [ScaleSense: Cost-Intelligent Scaling Framework via Learned Resource Estimation in Alibaba AnalyticDB]()  
 **Yifan Wu**, Yuhan Li, Zhenhua Wang, Ke Chen, Lidan Shou, Zonghao Chen, Liang Lin, Huan Li, Gang Chen  
 VLDB 2026, 52nd International Conference on Very Large Data Bases

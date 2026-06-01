@@ -7,27 +7,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Data Infrastructure, Databases, Data Markets, Blockchain, and Emerging Hardware. 
+I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Databases, Data Markets, Blockchain, Distributed Systems and Computer Architecture. 
 
-My current research is anchored in two interesting areas. Specifically, I'm designing novel frameworks for serverless data warehouses to significantly optimize cloud resource management and integrate AI capabilities. Simultaneously, I'm actively exploring the use of emerging hardware technologies, such as compute-in-memory architectures, to aggressively accelerate analytical workloads.
+## Projects
+
+### Ongoing Projects
+| Project | Duration | Description | Link |
+| --- | --- | --- | --- |
+| Data Discovery Agent and Data Markets | Mar 2026 - Present | An autonomous agent that helps users discover and procure relevant datasets in data markets. | [Project Page](https://onefanwu.github.io/projects/agent/) |
+
+### Completed Projects
+| Project | Duration | Description | Link |
+| --- | --- | --- | --- |
+| Serverless Data Warehouse | Dec 2024 - May 2026 | A serverless framework for cloud data warehouses that optimizes resource management and integrates AI capabilities. | [Project Page](https://onefanwu.github.io/projects/serverless/) |
+| In-Database AI Inference | Dec 2023 - July 2025 | AI model inference embedded inside database engines to enable efficient and intelligent analytics. | [Project Page](https://onefanwu.github.io/projects/db4ai/) |
+| Data Management on CIM Architecture | Sep 2021 - Jul 2024 | Analytical data management techniques that leverage compute-in-memory hardware to accelerate workloads. | [Project Page](https://onefanwu.github.io/projects/cimdb/) |
+| Aerobic Capacity Clustering | Nov 2019 - Jun 2021 | Machine learning methods for classifying and analyzing aerobic capacity data. | [Project Page](https://onefanwu.github.io/projects/acc/) |
+| Rolled Fingerprint Construction | Jan 2019 - Oct 2020 | Methods for constructing rolled fingerprint representations for biometric identification. | [Project Page](https://onefanwu.github.io/projects/rfc/) |
 
 
-## Current Projects
-- [Data Discovery Agent and Data Markets [Mar 2026 - Present]](https://onefanwu.github.io/projects/agent/)
-
-
-## Internship Experience
-Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql), at [Alibaba Cloud](https://www.alibabacloud.com/)  
-Research Intern  
-Dec 2024 - May 2026
-
-[Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/), at Southeast Digital Economic Development Institute (Quzhou)  
-Machine Learning Engineer Intern  
-Oct 2020 - Jun 2021
-
-Entity Resolution, at [ZJU Database and Data Intelligence Lab](https://github.com/dilab-zju)  
-Summer Camp Intern  
-Jul 2020 - Aug 2020
+## Industrial Experience
+| Experience | Organization | Role | Duration |
+| --- | --- | --- | --- |
+| Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql) | [Alibaba Cloud](https://www.alibabacloud.com/) | Research Intern | Dec 2024 - May 2026 |
+| [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/) | Southeast Digital Economic Development Institute (Quzhou) | Machine Learning Engineer Intern | Oct 2020 - Jun 2021 |
 
 
 ## Education
@@ -43,11 +46,3 @@ Sep 2017 - Jun 2021
 ## Services
 
 - External reviewer for ICDE 2024, DASFAA 2023, EDBT 2021, WAIM 2021
-
-## Past Projects
-- [Serverless Data Warehouse [Dec 2024 - May 2026]](https://onefanwu.github.io/projects/serverless/)
-- [In-Database AI Inference [Dec 2023 - July 2025]](https://onefanwu.github.io/projects/db4ai/)
-- [Data Management on CIM Architecture [Sep 2021 - Jul 2024]](https://onefanwu.github.io/projects/cimdb/)
-- [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/acc/)
-- [Rolled Fingerprint Construction [Jan 2019 - Oct 2020]](https://onefanwu.github.io/projects/rfc/)
-
