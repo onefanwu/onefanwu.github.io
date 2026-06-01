@@ -16,7 +16,7 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
       <h4 class="resume-item__title">Data Discovery Agent and Data Markets</h4>
       <p class="resume-item__meta">Mar 2026 - Present</p>
     </div>
-    <p class="resume-item__description">An autonomous agent that helps users discover and procure relevant datasets in data markets.</p>
+    <p class="resume-item__description">To architect a novel autonomous AI agent that independently discovers cross-domain data and autonomously executes data procurement leveraging advanced blockchain technology.</p>
     <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/agent/">Project Page</a></p>
   </article>
 </div>
@@ -75,17 +75,19 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
 <div class="resume-list">
   <article class="resume-item">
     <div class="resume-item__header">
-      <h4 class="resume-item__title">Serverless Data Warehouse, working on <a href="https://www.alibabacloud.com/en/product/analyticdb-for-mysql">AnalyticDB</a></h4>
+      <h4 class="resume-item__title"><a href="https://www.alibabacloud.com/">Alibaba Cloud</a></h4>
       <p class="resume-item__meta">Dec 2024 - May 2026</p>
     </div>
-    <p class="resume-item__submeta"><a href="https://www.alibabacloud.com/">Alibaba Cloud</a> · Research Intern</p>
+    <p class="resume-item__submeta">Research Intern</p>
+    <p class="resume-item__description">Worked on <a href="https://www.alibabacloud.com/en/product/analyticdb-for-mysql">AnalyticDB</a> through the <a href="https://onefanwu.github.io/projects/serverless/">Serverless Data Warehouse</a> project.</p>
   </article>
   <article class="resume-item">
     <div class="resume-item__header">
-      <h4 class="resume-item__title"><a href="https://onefanwu.github.io/projects/acc/">Aerobic Capacity Clustering</a></h4>
+      <h4 class="resume-item__title">Southeast Digital Economic Development Institute (Quzhou)</h4>
       <p class="resume-item__meta">Oct 2020 - Jun 2021</p>
     </div>
-    <p class="resume-item__submeta">Southeast Digital Economic Development Institute (Quzhou) · Machine Learning Engineer Intern</p>
+    <p class="resume-item__submeta">Machine Learning Engineer Intern</p>
+    <p class="resume-item__description">Worked on <a href="https://onefanwu.github.io/projects/acc/">Aerobic Capacity Clustering</a>.</p>
   </article>
 </div>
 
