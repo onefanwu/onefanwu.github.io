@@ -12,25 +12,79 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
 ## Projects
 
 ### Ongoing Projects
-| Project | Duration | Description | Link |
-| --- | --- | --- | --- |
-| Data Discovery Agent and Data Markets | Mar 2026 - Present | An autonomous agent that helps users discover and procure relevant datasets in data markets. | [Project Page](https://onefanwu.github.io/projects/agent/) |
+<div class="resume-list">
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Data Discovery Agent and Data Markets</h4>
+      <p class="resume-item__meta">Mar 2026 - Present</p>
+    </div>
+    <p class="resume-item__description">An autonomous agent that helps users discover and procure relevant datasets in data markets.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/agent/">Project Page</a></p>
+  </article>
+</div>
 
 ### Completed Projects
-| Project | Duration | Description | Link |
-| --- | --- | --- | --- |
-| Serverless Data Warehouse | Dec 2024 - May 2026 | A serverless framework for cloud data warehouses that optimizes resource management and integrates AI capabilities. | [Project Page](https://onefanwu.github.io/projects/serverless/) |
-| In-Database AI Inference | Dec 2023 - July 2025 | AI model inference embedded inside database engines to enable efficient and intelligent analytics. | [Project Page](https://onefanwu.github.io/projects/db4ai/) |
-| Data Management on CIM Architecture | Sep 2021 - Jul 2024 | Analytical data management techniques that leverage compute-in-memory hardware to accelerate workloads. | [Project Page](https://onefanwu.github.io/projects/cimdb/) |
-| Aerobic Capacity Clustering | Nov 2019 - Jun 2021 | Machine learning methods for classifying and analyzing aerobic capacity data. | [Project Page](https://onefanwu.github.io/projects/acc/) |
-| Rolled Fingerprint Construction | Jan 2019 - Oct 2020 | Methods for constructing rolled fingerprint representations for biometric identification. | [Project Page](https://onefanwu.github.io/projects/rfc/) |
+<div class="resume-list">
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Serverless Data Warehouse</h4>
+      <p class="resume-item__meta">Dec 2024 - May 2026</p>
+    </div>
+    <p class="resume-item__description">A serverless framework for cloud data warehouses that optimizes resource management and integrates AI capabilities.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/serverless/">Project Page</a></p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">In-Database AI Inference</h4>
+      <p class="resume-item__meta">Dec 2023 - July 2025</p>
+    </div>
+    <p class="resume-item__description">AI model inference embedded inside database engines to enable efficient and intelligent analytics.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/db4ai/">Project Page</a></p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Data Management on CIM Architecture</h4>
+      <p class="resume-item__meta">Sep 2021 - Jul 2024</p>
+    </div>
+    <p class="resume-item__description">Analytical data management techniques that leverage compute-in-memory hardware to accelerate workloads.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/cimdb/">Project Page</a></p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Aerobic Capacity Clustering</h4>
+      <p class="resume-item__meta">Nov 2019 - Jun 2021</p>
+    </div>
+    <p class="resume-item__description">Machine learning methods for classifying and analyzing aerobic capacity data.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/acc/">Project Page</a></p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Rolled Fingerprint Construction</h4>
+      <p class="resume-item__meta">Jan 2019 - Oct 2020</p>
+    </div>
+    <p class="resume-item__description">Methods for constructing rolled fingerprint representations for biometric identification.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/rfc/">Project Page</a></p>
+  </article>
+</div>
 
 
 ## Industrial Experience
-| Experience | Organization | Role | Duration |
-| --- | --- | --- | --- |
-| Serverless Data Warehouse, working on [AnalyticDB](https://www.alibabacloud.com/en/product/analyticdb-for-mysql) | [Alibaba Cloud](https://www.alibabacloud.com/) | Research Intern | Dec 2024 - May 2026 |
-| [Aerobic Capacity Clustering](https://onefanwu.github.io/projects/acc/) | Southeast Digital Economic Development Institute (Quzhou) | Machine Learning Engineer Intern | Oct 2020 - Jun 2021 |
+<div class="resume-list">
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Serverless Data Warehouse, working on <a href="https://www.alibabacloud.com/en/product/analyticdb-for-mysql">AnalyticDB</a></h4>
+      <p class="resume-item__meta">Dec 2024 - May 2026</p>
+    </div>
+    <p class="resume-item__submeta"><a href="https://www.alibabacloud.com/">Alibaba Cloud</a> · Research Intern</p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title"><a href="https://onefanwu.github.io/projects/acc/">Aerobic Capacity Clustering</a></h4>
+      <p class="resume-item__meta">Oct 2020 - Jun 2021</p>
+    </div>
+    <p class="resume-item__submeta">Southeast Digital Economic Development Institute (Quzhou) · Machine Learning Engineer Intern</p>
+  </article>
+</div>
 
 
 ## Education

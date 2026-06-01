@@ -105,6 +105,66 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  .resume-list {
+    margin: 1.25em 0 1.75em;
+  }
+
+  .resume-item {
+    margin-bottom: 1em;
+    padding: 1em 1.1em;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background: $lighter-gray;
+  }
+
+  .resume-item:last-child {
+    margin-bottom: 0;
+  }
+
+  .resume-item__header {
+    margin-bottom: 0.5em;
+
+    @include breakpoint($medium) {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 1em;
+    }
+  }
+
+  .resume-item__title {
+    margin: 0;
+    font-size: 1.05em;
+    line-height: 1.4;
+  }
+
+  .resume-item__meta,
+  .resume-item__description,
+  .resume-item__submeta,
+  .resume-item__link {
+    margin: 0;
+  }
+
+  .resume-item__meta {
+    color: $gray;
+    font-size: $type-size-6;
+
+    @include breakpoint($medium) {
+      text-align: right;
+      white-space: nowrap;
+    }
+  }
+
+  .resume-item__description,
+  .resume-item__submeta {
+    color: $dark-gray;
+  }
+
+  .resume-item__link,
+  .resume-item__submeta {
+    margin-top: 0.45em;
+  }
 }
 
 .page__hero {
