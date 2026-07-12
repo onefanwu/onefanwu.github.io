@@ -6,32 +6,86 @@ author_profile: true
 ---
 {% include base_path %}
 
-### [Serverless Multi-Agent System [July 2026 - Present]](https://onefanwu.github.io/projects/serverless-agent/)
+<div class="project-grid">
 
-**Abstract**: Autonomous AI agent platforms such as OpenClaw are increasingly deployed to serve long-running, interactive workloads that span multiple tool calls, model invocations, and external API interactions. However, existing deployments typically run agents on statically provisioned containers or fixed-size instances, leading to chronic resource inefficiency: agents sit idle between turns, blocking scarce GPU and memory when not actively reasoning, yet cannot acquire additional capacity on the spot when a complex multi-step task demands sudden bursts of compute. This project proposes a serverless, cloud-native system architecture that allows autonomous agents such as OpenClaw to elastically acquire and release resources at fine granularity while preserving interactive serving semantics. The system decouples agent identity and conversation state from the underlying execution runtime, enabling suspend/resume of containers without losing context or incurring cold-start penalties. A second focus is intelligent context sharing across agents, exposing a shared context layer through which cooperating agents securely exchange intermediate reasoning artifacts and memory snapshots, avoiding recomputation and redundant API spending.
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/serverless-agent/">Serverless Multi-Agent System</a></h3>
+      <span class="project-card__date">July 2026 - Present</span>
+    </div>
+    <p class="project-card__abstract">Autonomous AI agent platforms such as OpenClaw are increasingly deployed to serve long-running, interactive workloads that span multiple tool calls, model invocations, and external API interactions. However, existing deployments typically run agents on statically provisioned containers or fixed-size instances, leading to chronic resource inefficiency: agents sit idle between turns, blocking scarce GPU and memory when not actively reasoning, yet cannot acquire additional capacity on the spot when a complex multi-step task demands sudden bursts of compute. This project proposes a serverless, cloud-native system architecture that allows autonomous agents such as OpenClaw to elastically acquire and release resources at fine granularity while preserving interactive serving semantics. The system decouples agent identity and conversation state from the underlying execution runtime, enabling suspend/resume of containers without losing context or incurring cold-start penalties. A second focus is intelligent context sharing across agents, exposing a shared context layer through which cooperating agents securely exchange intermediate reasoning artifacts and memory snapshots, avoiding recomputation and redundant API spending.</p>
+  </article>
 
-### [Agent Economy and Data Markets [Mar 2026 - Present]](https://onefanwu.github.io/projects/agent-economy-and-data-market/)
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/agent-economy-and-data-market/">Agent Economy and Data Markets</a></h3>
+      <span class="project-card__date">Mar 2026 - Present</span>
+    </div>
+    <p class="project-card__abstract">Autonomous agents increasingly rely on external data to complete downstream tasks such as model training and decision support. However, existing data discovery systems remain largely retrieval-oriented: they surface candidate datasets from heterogeneous sources, but provide limited support for estimating taskspecific utility, selecting cost-effective datasets under budget constraints, or incorporating trustworthy feedback from prior usage. This project presents Guixu, a valuation-driven data discovery system for autonomous agents. Guixu employs a three-phase valuation pipeline with proxy-label propagation and multi-round knapsack optimization for task-aware data valuation. Guixu integrates agentic payment protocol to enable budget-constrained data procurement workflows. Guixu leverages on-chain data market and attestation signals for verifiable data discovery.</p>
+  </article>
 
-**Abstract**: Autonomous agents increasingly rely on external data to complete downstream tasks such as model training and decision support. However, existing data discovery systems remain largely retrieval-oriented: they surface candidate datasets from heterogeneous sources, but provide limited support for estimating taskspecific utility, selecting cost-effective datasets under budget constraints, or incorporating trustworthy feedback from prior usage. This project presents Guixu, a valuation-driven data discovery system for autonomous agents. Guixu employs a three-phase valuation pipeline with proxy-label propagation and multi-round knapsack optimization for task-aware data valuation. Guixu integrates agentic payment protocol to enable budget-constrained data procurement workflows. Guixu leverages on-chain data market and attestation signals for verifiable data discovery. Our demonstration highlights how Guixu enables an agent to move beyond keywordbased dataset retrieval toward task- and budget-aware, trustworthy data discovery and procurement. Attendees can interactly explore the full workflow, from NL task specification and multi-source search to data valuation and verifiable transaction feedback.
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/serverless-data-warehouse/">Serverless Data Warehouse</a></h3>
+      <span class="project-card__date">Dec 2024 - May 2026</span>
+    </div>
+    <p class="project-card__abstract">Memory overload is a common form of resource exhaustion in cloud data warehouses. When database queries fail due to memory overload, it not only wastes critical resources such as CPU time but also disrupts the execution of core business processes. This project proposes SafeLoad, the first query admission control framework specifically designed to identify memory-overloading (MO) queries, alongside SafeBench, an open-source, industrial-scale benchmark with 150 million real queries. SafeLoad achieves state-of-the-art prediction performance, improving precision by up to 66% over the best baseline and reducing wasted CPU time by up to 8.09x.</p>
+  </article>
 
-### [Serverless Data Warehouse [Dec 2024 - Present]](https://onefanwu.github.io/projects/serverless-data-warehouse/)
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/db4ai/">In-Database AI Inference</a></h3>
+      <span class="project-card__date">Dec 2023 - July 2025</span>
+    </div>
+    <p class="project-card__abstract">To enable OLAP database systems to efficiently support emerging analytical workloads that incorporate AI inference, this project proposes AiQ, a novel in-database AI query acceleration framework. AiQ is integrated with Spark SQL and supports Spark RAPIDS, enabling efficient execution of real-world AI-enhanced database workloads. The core idea is to improve query performance by optimizing the execution of User-Defined Inference Functions (UDIFs) through dynamic processing granularity adjustment during Adaptive Query Execution, and an inference-aware operator offloading mechanism that leverages GPU residency of AI inference results.</p>
+  </article>
 
-**Abstract**: Memory overload is a common form of resource exhaustion in  cloud data warehouses. When database queries fail due to memory overload, it not only wastes critical resources such as CPU  time but also disrupts the execution of core business processes, as  memory-overloading (MO) queries are typically part of complex  workflows. If such queries are identified in advance and scheduled  to memory-rich serverless clusters, it can prevent resource wastage  and query execution failure. Therefore, cloud data warehouses desire an admission control framework with high prediction precision,  interpretability, efficiency, and adaptability to effectively identify  memory-overloading queries. However, existing admission control  frameworks primarily focus on scenarios like SLA satisfaction and  resource isolation, with limited precision in identifying MO queries.  Moreover, there is a lack of publicly available MO-labeled datasets  with workloads for training and benchmarking. To tackle these challenges, we propose SafeLoad, the first query admission control  framework specifically designed to identify MO queries. Alongside,  we release SafeBench, an open-source, industrial-scale benchmark  for this task, which includes 150 million real queries. SafeLoad first  filters out memory-safe queries using the interpretable discriminative rule. It then applies a hybrid architecture that integrates both  a global model and cluster-level models, supplemented by a misprediction correction module to identify MO queries. Additionally,  a self-tuning quota management mechanism dynamically adjusts  prediction quotas per cluster to improve precision. Experimental  results show that SafeLoad achieves state-of-the-art prediction  performance with low online and offline time overhead. Specifically,  SafeLoad improves precision by up to 66% over the best baseline  and reduces wasted CPU time by up to 8.09× compared to scenarios  without SafeLoad.
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/cimdb/">Data Management on CIM Architecture</a></h3>
+      <span class="project-card__date">Sep 2021 - Jul 2024</span>
+    </div>
+    <p class="project-card__abstract">This project aims to design an efficient storage method for emerging Compute-In-Memory (CIM) architectures to support diverse data structures and access patterns, thereby effectively accelerating multi-MVM queries.</p>
+  </article>
 
-### [In-Database AI Inference [Dec 2023 - July 2025]](https://onefanwu.github.io/projects/db4ai/)
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/acc/">Aerobic Capacity Clustering</a></h3>
+      <span class="project-card__date">Nov 2019 - Jun 2021</span>
+    </div>
+    <p class="project-card__abstract">This project aims to learn the human's aerobic capacity from the exercise data (e.g., heart rate and speed) of undergraduate students, and thus a customized exercise program can be provided for each student. This project is co-funded by the National Student Innovation Training Program and Zhejiang Province New Talent Program. Please see <a href="https://patents.google.com/patent/CN112836105A/en">our patents</a> for more details.</p>
+  </article>
 
-**Abstract**: To enable OLAP database systems to efficiently support emerging analytical workloads that incorporate AI inference, this project focuses on optimizing query vectorization and GPU co-processing for accelerating In-Database AI Inference Queries (In-DB AI Inference Queries). The work aims to improve the execution efficiency of OLAP queries containing AI inference operators and proposes AiQ, a novel in-database AI query acceleration framework. AiQ is integrated with Spark SQL and supports Spark RAPIDS, enabling efficient execution of real-world AI-enhanced database workloads, including semantic search, sentiment analysis, and time-series analytics.
-The core idea of AiQ is to improve query performance by optimizing the execution of User-Defined Inference Functions (UDIFs). Specifically, AiQ models the throughput of a UDIF using a Rows-Per-Second (RPS) function and dynamically adjusts the processing granularity of UDIFs during Adaptive Query Execution (AQE) to maximize GPU utilization and minimize query latency. This optimization problem is formulated as a multi-objective optimization task and is solved using a gradient-ascent-based strategy to identify the optimal inference batch granularity. In addition, AiQ introduces an inference-aware operator offloading mechanism, which leverages the residency of AI inference results on GPUs to offload portions of the query pipeline, thereby reducing data movement and I/O overhead while exploiting GPU acceleration for relational operators. Experimental evaluations demonstrate that AiQ effectively accelerates AI-enabled analytical queries and significantly improves the efficiency of in-database AI inference workloads.
+  <article class="project-card">
+    <div class="project-card__header">
+      <h3 class="project-card__title"><a href="https://onefanwu.github.io/projects/rfc/">Rolled Fingerprint Construction</a></h3>
+      <span class="project-card__date">Jan 2019 - Oct 2020</span>
+    </div>
+    <p class="project-card__abstract">Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. We propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction) to address distortion and mosaicking gap challenges. Please see <a href="https://ieeexplore.ieee.org/abstract/document/9274479">our papers</a> for more details.</p>
+  </article>
 
+</div>
 
-### [Data Management on CIM Architecture [Sep 2021 - Jul 2024]](https://onefanwu.github.io/projects/cimdb/)
-
-**Abstract**: This project aims to design an efficient storage method for emerging Compute-In-Memory (CIM) architectures to support diverse data structures and access patterns, thereby effectively accelerating multi-MVM queries.
-
-### [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/acc/)
-
-**Abstract**: This project is the subject of my internship as a machine learning engineer at the Southeast Digital Economic Development Institute (Quzhou). It aims to learn the human's aerobic capacity from the exercise data (e.g., heart rate and speed) of undergraduate students, and thus a customized exercise program can be provided for each student. This project is co-funded by the National Student Innovation Training Program and Zhejiang Province New Talent Program. Please see [our patents](https://patents.google.com/patent/CN112836105A/en) for more details.
-
-### [Rolled Fingerprint Construction [Jan 2019 - Oct 2020]](https://onefanwu.github.io/projects/rfc/)
-
-**Abstract**: Compared with a flat fingerprint, the rolled fingerprint has a larger fingerprint area and can be extracted more minutiae. It has high requirements in many fields, not only in the military environment or the police field but also in many civil application fields. The challenge that has been troubled for a long time is that contact-based rolled fingerprint registration is easy to cause obvious distortion without human experts’ supervision, which has a negative impact on fingerprint recognition performance. Due to the elastic deformation of fingertips, the mosaicking gaps in the rolled fingerprint are usually visible but challenging to locate. To address these problems, we propose a novel rolled fingerprint construction algorithm called BlockRFC (Block-based Rolled Fingerprint Construction). Please see [our papers](https://ieeexplore.ieee.org/abstract/document/9274479) for more details.
+<script>
+(function() {
+  var abstracts = document.querySelectorAll('.project-card__abstract');
+  abstracts.forEach(function(p) {
+    if (p.scrollHeight > 120) {
+      p.classList.add('project-card__abstract--clamped');
+      var btn = document.createElement('button');
+      btn.className = 'project-card__toggle';
+      btn.textContent = 'Read more';
+      btn.addEventListener('click', function() {
+        if (p.classList.contains('project-card__abstract--expanded')) {
+          p.classList.remove('project-card__abstract--expanded');
+          btn.textContent = 'Read more';
+        } else {
+          p.classList.add('project-card__abstract--expanded');
+          btn.textContent = 'Show less';
+        }
+      });
+      p.parentNode.insertBefore(btn, p.nextSibling);
+    }
+  });
+})();
+</script>

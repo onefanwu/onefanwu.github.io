@@ -117,17 +117,13 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
       <h4 class="resume-item__title">PhD. in Software Engineering, Zhejiang University</h4>
       <p class="resume-item__meta">Sep 2021 - Sep 2026 (expected)</p>
     </div>
-    <p class="resume-item__description">Advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ)</p>
+    <p class="resume-item__description">Advised by Prof. <a href="https://scholar.google.com/citations?user=0OlITuIAAAAJ">Lidan Shou</a></p>
   </article>
   <article class="resume-item">
     <div class="resume-item__header">
       <h4 class="resume-item__title">B.Eng. in Software Engineering, Zhejiang University of Technology</h4>
       <p class="resume-item__meta">Sep 2017 - Jun 2021</p>
     </div>
-    <p class="resume-item__description">Advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900)</p>
+    <p class="resume-item__description">Advised by Prof. <a href="https://www.researchgate.net/profile/Liang-Yang-39">Lianghuai Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37599095900">Yongliang Zhang</a></p>
   </article>
 </div>
-
-## Services
-
-- External reviewer for ICDE 2024, DASFAA 2023, EDBT 2021, WAIM 2021
