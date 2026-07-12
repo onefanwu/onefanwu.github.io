@@ -397,6 +397,34 @@
   line-height: 1.6;
 }
 
+.project-card__submeta {
+  margin: 0 0 0.5em;
+  color: $gray;
+  font-size: $type-size-6;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.project-card__content {
+  margin: 0;
+
+  p {
+    margin: 0 0 0.35em;
+    font-size: $type-size-6;
+    color: $dark-gray;
+    line-height: 1.6;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    font-size: $type-size-6;
+  }
+}
+
 .project-card__abstract--clamped {
   display: -webkit-box;
   -webkit-line-clamp: 4;

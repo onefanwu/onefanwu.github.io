@@ -6,6 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+## Ongoing Projects
+
 <div class="project-grid">
 
   <article class="project-card">
@@ -23,6 +25,12 @@ author_profile: true
     </div>
     <p class="project-card__abstract">Autonomous agents increasingly rely on external data to complete downstream tasks such as model training and decision support. However, existing data discovery systems remain largely retrieval-oriented: they surface candidate datasets from heterogeneous sources, but provide limited support for estimating taskspecific utility, selecting cost-effective datasets under budget constraints, or incorporating trustworthy feedback from prior usage. This project presents Guixu, a valuation-driven data discovery system for autonomous agents. Guixu employs a three-phase valuation pipeline with proxy-label propagation and multi-round knapsack optimization for task-aware data valuation. Guixu integrates agentic payment protocol to enable budget-constrained data procurement workflows. Guixu leverages on-chain data market and attestation signals for verifiable data discovery.</p>
   </article>
+
+</div>
+
+## Completed Projects
+
+<div class="project-grid">
 
   <article class="project-card">
     <div class="project-card__header">
