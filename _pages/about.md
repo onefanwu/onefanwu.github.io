@@ -14,19 +14,19 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
 <div class="resume-list">
   <article class="resume-item">
     <div class="resume-item__header">
-      <h4 class="resume-item__title">Agent Economy and Data Markets</h4>
-      <p class="resume-item__meta">Mar 2026 - Present</p>
-    </div>
-    <p class="resume-item__description">To architect a novel autonomous AI agent that independently discovers cross-domain data and autonomously executes data procurement leveraging advanced blockchain technology.</p>
-    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/agent-economy-and-data-market/">Project Page</a></p>
-  </article>
-  <article class="resume-item">
-    <div class="resume-item__header">
       <h4 class="resume-item__title">Serverless Multi-Agent System</h4>
       <p class="resume-item__meta">July 2026 - Present</p>
     </div>
     <p class="resume-item__description">A serverless, cloud-native system architecture that enables autonomous AI agents such as OpenClaw to elastically scale and release resources on demand, while supporting intelligent context sharing across agents.</p>
     <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/serverless-agent/">Project Page</a></p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Agent Economy and Data Markets</h4>
+      <p class="resume-item__meta">Mar 2026 - Present</p>
+    </div>
+    <p class="resume-item__description">To architect a novel autonomous AI agent that independently discovers cross-domain data and autonomously executes data procurement leveraging advanced blockchain technology.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/agent-economy-and-data-market/">Project Page</a></p>
   </article>
 </div>
 

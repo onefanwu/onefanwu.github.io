@@ -6,15 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-## PhD period (Sep 2021 - Present)
+### [Serverless Multi-Agent System [July 2026 - Present]](https://onefanwu.github.io/projects/serverless-agent/)
+
+**Abstract**: Autonomous AI agent platforms such as OpenClaw are increasingly deployed to serve long-running, interactive workloads that span multiple tool calls, model invocations, and external API interactions. However, existing deployments typically run agents on statically provisioned containers or fixed-size instances, leading to chronic resource inefficiency: agents sit idle between turns, blocking scarce GPU and memory when not actively reasoning, yet cannot acquire additional capacity on the spot when a complex multi-step task demands sudden bursts of compute. This project proposes a serverless, cloud-native system architecture that allows autonomous agents such as OpenClaw to elastically acquire and release resources at fine granularity while preserving interactive serving semantics. The system decouples agent identity and conversation state from the underlying execution runtime, enabling suspend/resume of containers without losing context or incurring cold-start penalties. A second focus is intelligent context sharing across agents, exposing a shared context layer through which cooperating agents securely exchange intermediate reasoning artifacts and memory snapshots, avoiding recomputation and redundant API spending.
 
 ### [Agent Economy and Data Markets [Mar 2026 - Present]](https://onefanwu.github.io/projects/agent-economy-and-data-market/)
 
 **Abstract**: Autonomous agents increasingly rely on external data to complete downstream tasks such as model training and decision support. However, existing data discovery systems remain largely retrieval-oriented: they surface candidate datasets from heterogeneous sources, but provide limited support for estimating taskspecific utility, selecting cost-effective datasets under budget constraints, or incorporating trustworthy feedback from prior usage. This project presents Guixu, a valuation-driven data discovery system for autonomous agents. Guixu employs a three-phase valuation pipeline with proxy-label propagation and multi-round knapsack optimization for task-aware data valuation. Guixu integrates agentic payment protocol to enable budget-constrained data procurement workflows. Guixu leverages on-chain data market and attestation signals for verifiable data discovery. Our demonstration highlights how Guixu enables an agent to move beyond keywordbased dataset retrieval toward task- and budget-aware, trustworthy data discovery and procurement. Attendees can interactly explore the full workflow, from NL task specification and multi-source search to data valuation and verifiable transaction feedback.
-
-### [Serverless Multi-Agent System [July 2026 - Present]](https://onefanwu.github.io/projects/serverless-agent/)
-
-**Abstract**: Autonomous AI agent platforms such as OpenClaw are increasingly deployed to serve long-running, interactive workloads that span multiple tool calls, model invocations, and external API interactions. However, existing deployments typically run agents on statically provisioned containers or fixed-size instances, leading to chronic resource inefficiency: agents sit idle between turns, blocking scarce GPU and memory when not actively reasoning, yet cannot acquire additional capacity on the spot when a complex multi-step task demands sudden bursts of compute. This project proposes a serverless, cloud-native system architecture that allows autonomous agents such as OpenClaw to elastically acquire and release resources at fine granularity while preserving interactive serving semantics. The system decouples agent identity and conversation state from the underlying execution runtime, enabling suspend/resume of containers without losing context or incurring cold-start penalties. A second focus is intelligent context sharing across agents, exposing a shared context layer through which cooperating agents securely exchange intermediate reasoning artifacts and memory snapshots, avoiding recomputation and redundant API spending.
 
 ### [Serverless Data Warehouse [Dec 2024 - Present]](https://onefanwu.github.io/projects/serverless-data-warehouse/)
 
@@ -29,9 +27,6 @@ The core idea of AiQ is to improve query performance by optimizing the execution
 ### [Data Management on CIM Architecture [Sep 2021 - Jul 2024]](https://onefanwu.github.io/projects/cimdb/)
 
 **Abstract**: This project aims to design an efficient storage method for emerging Compute-In-Memory (CIM) architectures to support diverse data structures and access patterns, thereby effectively accelerating multi-MVM queries.
-
-
-## Undergraduate period (Sep 2017 - Jun 2021)
 
 ### [Aerobic Capacity Clustering [Nov 2019 - Jun 2021]](https://onefanwu.github.io/projects/acc/)
 
