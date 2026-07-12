@@ -7,21 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Databases, Data Markets, Blockchain, Distributed Systems and Computer Architecture. 
+I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Database , Data Markets, AI Agents, Blockchain, Distributed Systems and Computer Architecture.
 
 ## Current Research Projects
+
 <div class="resume-list">
   <article class="resume-item">
     <div class="resume-item__header">
-      <h4 class="resume-item__title">Data Discovery Agent and Data Markets</h4>
+      <h4 class="resume-item__title">Agent Economy and Data Markets</h4>
       <p class="resume-item__meta">Mar 2026 - Present</p>
     </div>
     <p class="resume-item__description">To architect a novel autonomous AI agent that independently discovers cross-domain data and autonomously executes data procurement leveraging advanced blockchain technology.</p>
-    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/agent/">Project Page</a></p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/agent-economy-and-data-market/">Project Page</a></p>
+  </article>
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title">Serverless Multi-Agent System</h4>
+      <p class="resume-item__meta">July 2026 - Present</p>
+    </div>
+    <p class="resume-item__description">A serverless, cloud-native system architecture that enables autonomous AI agents such as OpenClaw to elastically scale and release resources on demand, while supporting intelligent context sharing across agents.</p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/serverless-agent/">Project Page</a></p>
   </article>
 </div>
 
 ## Past Research Projects
+
 <div class="resume-list">
   <article class="resume-item">
     <div class="resume-item__header">
@@ -29,7 +39,7 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
       <p class="resume-item__meta">Dec 2024 - May 2026</p>
     </div>
     <p class="resume-item__description">A serverless framework for cloud data warehouses that optimizes resource management and integrates AI capabilities.</p>
-    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/serverless/">Project Page</a></p>
+    <p class="resume-item__link"><a href="https://onefanwu.github.io/projects/serverless-data-warehouse/">Project Page</a></p>
   </article>
   <article class="resume-item">
     <div class="resume-item__header">
@@ -70,16 +80,24 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
   </div>
 </details>
 
-
 ## Experiences
+
 <div class="resume-list">
+  <article class="resume-item">
+    <div class="resume-item__header">
+      <h4 class="resume-item__title"><a href="https://www.xiaohongshu.com/">Xiaohongshu</a></h4>
+      <p class="resume-item__meta">July 2026 - TBD</p>
+    </div>
+    <p class="resume-item__submeta">Research Intern</p>
+    <p class="resume-item__description">Worked on serverless infrastructure for multi-agent systems through the <a href="https://onefanwu.github.io/projects/serverless-agent/">Serverless Multi-Agent System</a> project.</p>
+  </article>
   <article class="resume-item">
     <div class="resume-item__header">
       <h4 class="resume-item__title"><a href="https://www.alibabacloud.com/">Alibaba Cloud</a></h4>
       <p class="resume-item__meta">Dec 2024 - May 2026</p>
     </div>
     <p class="resume-item__submeta">Research Intern</p>
-    <p class="resume-item__description">Worked on <a href="https://www.alibabacloud.com/en/product/analyticdb-for-mysql">AnalyticDB</a> through the <a href="https://onefanwu.github.io/projects/serverless/">Serverless Data Warehouse</a> project.</p>
+    <p class="resume-item__description">Worked on <a href="https://www.alibabacloud.com/en/product/analyticdb-for-mysql">AnalyticDB</a> through the <a href="https://onefanwu.github.io/projects/serverless-data-warehouse/">Serverless Data Warehouse</a> project.</p>
   </article>
   <article class="resume-item">
     <div class="resume-item__header">
@@ -91,16 +109,15 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
   </article>
 </div>
 
-
 ## Education
-PhD. in Software Engineering, Zhejiang University,  
-advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ)  
+
+PhD. in Software Engineering, Zhejiang University,
+advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ)
 Sep 2021 - Sep 2026 (expected)
 
-B.Eng. in Software Engineering, Zhejiang University of Technology,  
-advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900)  
+B.Eng. in Software Engineering, Zhejiang University of Technology,
+advised by Prof. [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) and Prof. [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900)
 Sep 2017 - Jun 2021
-
 
 ## Services
 

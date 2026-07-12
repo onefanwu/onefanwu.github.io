@@ -17,13 +17,3 @@ VLDB 2026, 52nd International Conference on Very Large Data Bases
 [Homepage](https://safeload-project.github.io/Homepage) / [Benchmark](https://github.com/SafeLoad-project/SafeBench) / Slide / Video
 
 <!-- ### Patents -->
-
-
-
-### Team
-- [Huan Li](https://longaspire.github.io/) (Project Leader)
-- [Zhenhua Wang](https://www.linkedin.com/in/zhenhua-wang/) (Project Leader)
-- [Yifan Wu](https://scholar.google.com/citations?user=l2GmQnQAAAAJ)
-- Yuhan Li (Mentor)
-- [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ) (Advisor)
-- [Ke Chen](https://scholar.google.com/citations?user=cqfBLecAAAAJ)

@@ -24,9 +24,3 @@ Chinese Conference on Biometric Recognition (pp. 55-62). Springer, Cham. (2019, 
 [A real-time rolling fingerprint stitching method based on dynamic programming and multi-objective optimization](https://patents.google.com/patent/CN111209872A/en?oq=CN111209872A)  
 Yongliang Zhang, **Yifan Wu**, Minghua Gao, Tian Luo, Yuanyang Xu  
 CN111209872A, 2020
-
-### Team
-- [Yongliang Zhang](https://ieeexplore.ieee.org/author/37599095900) (Project Leader & Advisor)
-- [Yifan Wu](https://scholar.google.com/citations?user=l2GmQnQAAAAJ)
-- Xiaosi Zhan
-- Minghua Gao

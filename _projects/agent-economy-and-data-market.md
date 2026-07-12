@@ -1,5 +1,5 @@
 ---
-title: "Data Discovery Agent and Data Markets"
+title: "Agent Economy and Data Markets"
 
 excerpt: "TBD"
 
@@ -23,10 +23,3 @@ VLDB 2026, 52nd International Conference on Very Large Data Bases
 Yuxi Chen, Junming Chen, Chenyu He, Yiwei Li, Yicheng Ji, **Yifan Wu**, Dingyu Yang, Lansong Diao, Lidan Shou, Hongliang Zhang, Huan Li, Gang Chen  
 arXiv:2605.09104, 2026
 
-
-
-### Team
-
-- [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ) (Advisor)
-- [Ke Chen](https://scholar.google.com/citations?user=cqfBLecAAAAJ)
-- [Yifan Wu](https://scholar.google.com/citations?user=l2GmQnQAAAAJ)

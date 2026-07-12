@@ -11,11 +11,3 @@ This project is the subject of my internship as a machine learning engineer at t
 [A large-scale student aerobic capacity clustering method based on fusion of exercise physiological representations](https://patents.google.com/patent/CN112836105A/en?oq=CN112836105A)  
 Lianghuai Yang, **Yifan Wu**, Yulei Fan  
 CN112836105A, 2021
-
-
-### Team
-- [Lianghuai Yang](https://www.researchgate.net/profile/Liang-Yang-39) (Project Leader & Advisor)
-- [Yifan Wu](https://scholar.google.com/citations?user=l2GmQnQAAAAJ)
-- [Yulei Fan](https://www.researchgate.net/profile/Yulei-Fan)
-- Dongwei Kuang
-- Luyuan Zhang

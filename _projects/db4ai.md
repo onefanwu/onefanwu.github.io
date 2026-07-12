@@ -14,10 +14,3 @@ The core idea of AiQ is to improve query performance by optimizing the execution
 [Method, Device, and Storage Medium for In-Database AI Inference Based on Selective Awareness]()  
 Lidan Shou, **Yifan Wu**, Huan Li, Ke Chen, Xinyuan Luo, Gang Chen  
 2026
-
-
-### Team
-- [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ) (Project Leader & Advisor)
-- [Yifan Wu](https://scholar.google.com/citations?user=l2GmQnQAAAAJ)
-- [Ke Chen](https://scholar.google.com/citations?user=cqfBLecAAAAJ)
-- [Huan Li](https://longaspire.github.io/)
