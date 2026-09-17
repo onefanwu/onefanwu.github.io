@@ -20,6 +20,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   <div class="pub-search__field pub-search__field--narrow">
     <select id="pub-year-filter" class="pub-search__select">
       <option value="">All Years</option>
+      <option value="2027">2027</option>
       <option value="2026">2026</option>
       <option value="2025">2025</option>
       <option value="2020">2020</option>
@@ -31,6 +32,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 <p id="pub-no-results" class="pub-no-results" style="display:none;">No publications found matching your search.</p>
 
 <div class="pub-list">
+  <article class="pub-item" data-year="2027" data-authors="shixin wan guoyu hu yifan wu ke chen lidan shou" data-title="coral cross-modal vector retrieval via incremental graph construction at scale">
+    <div class="pub-item__header">
+      <h4 class="pub-item__title">CORAL: Cross-modal Vector Retrieval via Incremental Graph Construction at Scale</h4>
+      <span class="pub-item__year">2027</span>
+    </div>
+    <p class="pub-item__authors">Shixin Wan, Guoyu Hu, <strong>Yifan Wu</strong>, Ke Chen, Lidan Shou</p>
+    <p class="pub-item__venue">VLDB 2027, 53rd International Conference on Very Large Data Bases</p>
+  </article>
+
   <article class="pub-item" data-year="2026" data-authors="yifan wu yuchen peng jiaqi chai yufei qian xilin li ke chen lidan shou" data-title="guixu valuation-driven data discovery for autonomous ai agents with on-chain attestation">
     <div class="pub-item__header">
       <h4 class="pub-item__title">Guixu: Valuation-Driven Data Discovery for Autonomous AI Agents with On-Chain Attestation</h4>

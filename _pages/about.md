@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at the State Key Laboratory of Blockchain and Data Security of Zhejiang University, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ). I have a keen interest in Databases, Distributed Systems, Multi-Agent System, Data Markets, and Blockchain.
+I am currently a researcher at the State Key Laboratory of Blockchain and Data Security, Zhejiang University, and the Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain & Data Security. I have a keen interest in Databases, Distributed Systems, Multi-Agent System, Data Markets, and Blockchain.
 
 ## Current Research Projects
 
@@ -115,7 +115,7 @@ I am currently a PhD student at the State Key Laboratory of Blockchain and Data 
   <article class="resume-item">
     <div class="resume-item__header">
       <h4 class="resume-item__title">PhD. in Software Engineering, Zhejiang University</h4>
-      <p class="resume-item__meta">Sep 2021 - Sep 2026 (expected)</p>
+      <p class="resume-item__meta">Sep 2021 - Sep 2026</p>
     </div>
     <p class="resume-item__description">Advised by Prof. <a href="https://scholar.google.com/citations?user=0OlITuIAAAAJ">Lidan Shou</a></p>
   </article>
