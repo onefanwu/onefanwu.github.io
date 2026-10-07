@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a researcher at the State Key Laboratory of Blockchain and Data Security, Zhejiang University, and the Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain & Data Security. I have a keen interest in Databases, Distributed Systems, Multi-Agent System, Data Markets, and Blockchain.
+I am currently a ZJU100 Young Professor at Zhejiang University. I am also a researcher at both the State Key Laboratory of Blockchain and Data Security and the Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain & Data Security. I have a keen interest in Databases, Distributed Systems, Multi-Agent System, Data Markets, and Blockchain. Fortunately, I received my Ph.D. in Software Engineering from Zhejiang University in 2026, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ).
 
 ## Current Research Projects
 
@@ -85,14 +85,6 @@ I am currently a researcher at the State Key Laboratory of Blockchain and Data S
 <div class="resume-list">
   <article class="resume-item">
     <div class="resume-item__header">
-      <h4 class="resume-item__title"><a href="https://www.xiaohongshu.com/">Xiaohongshu</a></h4>
-      <p class="resume-item__meta">July 2026 - TBD</p>
-    </div>
-    <p class="resume-item__submeta">Research Intern</p>
-    <p class="resume-item__description">Worked on serverless infrastructure for multi-agent systems through the <a href="https://onefanwu.github.io/projects/serverless-agent/">Serverless Multi-Agent System</a> project.</p>
-  </article>
-  <article class="resume-item">
-    <div class="resume-item__header">
       <h4 class="resume-item__title"><a href="https://www.alibabacloud.com/">Alibaba Cloud</a></h4>
       <p class="resume-item__meta">Dec 2024 - May 2026</p>
     </div>
@@ -114,7 +106,7 @@ I am currently a researcher at the State Key Laboratory of Blockchain and Data S
 <div class="resume-list">
   <article class="resume-item">
     <div class="resume-item__header">
-      <h4 class="resume-item__title">PhD. in Software Engineering, Zhejiang University</h4>
+      <h4 class="resume-item__title">Ph.D. in Software Engineering, Zhejiang University</h4>
       <p class="resume-item__meta">Sep 2021 - Sep 2026</p>
     </div>
     <p class="resume-item__description">Advised by Prof. <a href="https://scholar.google.com/citations?user=0OlITuIAAAAJ">Lidan Shou</a></p>
@@ -127,3 +119,7 @@ I am currently a researcher at the State Key Laboratory of Blockchain and Data S
     <p class="resume-item__description">Advised by Prof. <a href="https://www.researchgate.net/profile/Liang-Yang-39">Lianghuai Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37599095900">Yongliang Zhang</a></p>
   </article>
 </div>
+
+## Professional Services
+
+- Reviewer for [Data Science and Engineering](https://link.springer.com/journal/41019)
