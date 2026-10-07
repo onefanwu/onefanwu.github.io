@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a ZJU100 Young Professor at [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China. I am also a researcher at both the State Key Laboratory of Blockchain and Data Security and the Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain & Data Security. I have a keen interest in Databases, Distributed Systems, Multi-Agent System, Data Markets, and Blockchain. Fortunately, I received my Ph.D. in Software Engineering from Zhejiang University in 2026, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ).
+I am currently an Assistant Professor (ZJU100 Young Professor) at Zhejiang University (https://www.zju.edu.cn/english/), Hangzhou, China. I am also a researcher at both the State Key Laboratory of Blockchain and Data Security and the Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain & Data Security. I have a keen interest in Databases, Distributed Systems, Multi-Agent System, Data Markets, and Blockchain. Fortunately, I received my Ph.D. in Software Engineering from Zhejiang University in 2026, advised by Prof. [Lidan Shou](https://scholar.google.com/citations?user=0OlITuIAAAAJ).
 
 ## Current Research Projects
 
